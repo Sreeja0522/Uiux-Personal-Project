@@ -4,7 +4,7 @@
 
 Fit with Bunny AI is an AI-powered fitness app designed to help users achieve their fitness goals through personalized workout recommendations. The app provides structured, goal-oriented fitness plans, seamless navigation, and AI-driven insights for a better fitness experience.
 
-The project can be better understood by viewing this presentation [here](https://docs.google.com/presentation/d/1WwgF3hXjFV2TMd9NxRcOk971Oqiyx04x5qskQK6BM7E/edit?usp=sharing).
+The project can be better understood by viewing this presentation [here](https://docs.google.com/presentation/d/1WwgF3hXjFV2TMd9NxRcOk971Oqiyx04x5qskQK6BM7E/edit?usp=sharing). And access the figma pages from [here](https://www.figma.com/design/Rb8HPgS8HTjRZx0wSPFXm7/Fitness-App-High-Fidelity-Prototype?node-id=0-1&t=Ve0XlXoKkaYBCzhr-1).
 
 ### Project Details
 - **Project Duration:** May 2024 – August 2024  
